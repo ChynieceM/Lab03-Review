@@ -15,6 +15,9 @@ namespace Lab03_Review
             Challenge4();
             Challenge5();
             Challenge6();
+            Challenge7();
+            Challenge8();
+            Challenge9();
         }
 
         public static int Challenge1()
